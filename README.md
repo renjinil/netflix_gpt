@@ -2,18 +2,26 @@
 create react app
 - configure tail wind css
 
-# feature
--Login/signup
-    -sign In/Sign Up forms
-    - redrect to browse page
--browse page(after authentication): 
     -header
-    - main  movie
-        -trailer in background
-        -movie descriptiom
-    -movie suggestion
-        -movie list
 
--netflix  gpt
-    -search bar
-        -giving movie suggestion
+    login form
+
+    sign up form
+
+    formvalidation
+
+# Features
+- Login/Sign Up
+    - Sign In /Sign up Form
+    - redirect to Browse Page
+- Browse (after authentication)
+    - Header
+    - Main Movie
+        - Tailer in Background
+        - Title & Description
+        - MovieSuggestions
+            - MovieLists * N 
+- NetflixGPT
+    - Search Bar
+    - Movie Suggestions
+
